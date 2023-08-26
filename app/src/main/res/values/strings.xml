@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplikasi Coba-Coba</string>
+    <string name="button1"> submit </string>
+    <string name="button2"> reset </string>
+    <string name="teks1"> Nama : </string>
+    <string name="teks2"> No tlp : </string>
+    <string name="inpNama"></string>
+</resources>
